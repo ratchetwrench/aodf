@@ -1,0 +1,5 @@
+site_name: Anomaly and Outlier Detection Framework
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
